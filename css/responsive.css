@@ -1,0 +1,16 @@
+@media(min-width:270px) and (max-width:575.99px){
+    .navbar .container .navbar-toggler{
+        border: 0;
+        box-shadow:none;
+        color: #6a4df4;
+
+    }
+    .navbar{
+        background-color: #fff;
+    }
+
+
+.navbar .navbar-nav .nav-item a {
+    color: #000;
+}
+}
